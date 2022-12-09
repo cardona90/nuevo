@@ -1,0 +1,53 @@
+*{
+    padding:0
+    margin;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    position: relative
+     }
+body{
+ background-color:darkgray;
+}
+
+.arma1{
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+
+   
+    
+}
+.arma2{
+    width: 700px;
+    height: 500px;
+   
+    object-fit: cover;
+   
+  
+   
+}
+.arma3{
+    width: 700px;
+    height: 500px;
+
+  
+    object-fit: cover;
+
+    
+}
+.arma4{
+    width: 700px;
+    height: 520px;
+  
+  
+  
+    object-fit: cover;
+
+    
+}
+

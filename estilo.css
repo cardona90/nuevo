@@ -1,0 +1,59 @@
+*{
+    padding:0
+    margin;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    position: relative
+}
+nav ul{
+    background-color: #757575;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    
+}
+nav li{
+    display: inline-flex;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    width: 150px;
+}
+nav li :hover{
+    background-color: black;
+}
+.img1{
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+    position: absolute;
+    
+    left: 450px;
+    
+}
+body{
+    background-color:darkgray;
+}
+.img2{
+    width: 450px;
+    height: 200px;
+    object-fit: cover;
+    position: absolute;
+
+}
+.img3{
+    width: 425px;
+    height: 200px;
+    right: 0px;
+    object-fit: cover;
+    position: absolute;
+
+}
